@@ -16,11 +16,8 @@ e. K-Means
 Problem Statement 4 : Change code into an Object Oriented Project reusing part of the code where possible
 
 
+          
+Note:                                                                                                                   
+Problem statement 1,2 & 3 : Assignment_10                                                                               
+Problem statement 4 : Different_Models, Linear_Regression, Logistic_Regression & Object_Oriented_Approach               
 
--------------------------------------------------------------------------------------------------------------------------
-                                                                                                                        |
-Note:                                                                                                                   |
-Problem statement 1,2 & 3 : Assignment_10                                                                               |
-Problem statement 4 : Different_Models, Linear_Regression, Logistic_Regression & Object_Oriented_Approach               |
-                                                                                                                        |
--------------------------------------------------------------------------------------------------------------------------
