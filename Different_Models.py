@@ -6,7 +6,7 @@ import pandas as pd
 # Linear Regression Using Gradient Descent
 print("=" * 40)
 print("Linear Regression Using Gradient Descent")
-data = pd.read_csv("E:\\Machine Learning  Project\\College\\Manan_Mukim_Assignment_10_1700146C202\\Codes\\Linear_Regression_Dataset.csv")
+data = pd.read_csv("Linear_Regression_Dataset.csv")
 
 v = len(data.columns)
 X = data.iloc[:, 1:v - 1].values
@@ -33,7 +33,7 @@ print("Means Squared Error : ", Linear_Regression.Mean_Squared_Error(Y_test, pre
 # Logistic Regression Using Gradient Descent
 print("=" * 40)
 print("Linear Regression Using Gradient Descent")
-data = pd.read_csv("E:\\Machine Learning  Project\\College\\Manan_Mukim_Assignment_10_1700146C202\\Codes\\Logistic_Regression_Dataset.csv")
+data = pd.read_csv("Logistic_Regression_Dataset.csv")
 v = len(data.columns)
 X = data.iloc[:, 1:v - 1].values
 Y = data.iloc[:, v - 1].values
@@ -59,7 +59,7 @@ print("Accuracy Score : ", Logistic_Regression.accuracy_metric(Y_test, predictio
 # Linear Regression With L1_L2_Regularization
 print("=" * 40)
 print("Linear Regression With L1 And L2 Regularization")
-data = pd.read_csv("E:\\Machine Learning  Project\\College\\Manan_Mukim_Assignment_10_1700146C202\\Codes\\Linear_Regression_Dataset.csv")
+data = pd.read_csv("Linear_Regression_Dataset.csv")
 v = len(data.columns)
 X = data.iloc[:, 1:v - 1].values
 Y = data.iloc[:, v - 1].values
@@ -83,7 +83,7 @@ print(Y_test)
 print("Means Squared Error : ", Linear_Regression.Mean_Squared_Error(Y_test, predictions))
 
 # # Logistic Regression With L1_L2_Regularization
-data = pd.read_csv("E:\\Machine Learning  Project\\College\\Manan_Mukim_Assignment_10_1700146C202\\Codes\\Logistic_Regression_Dataset.csv")
+data = pd.read_csv("Logistic_Regression_Dataset.csv")
 print("=" * 40)
 print("Logistic Regression With L1 And L2 Regularization")
 v = len(data.columns)
