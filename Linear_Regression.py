@@ -1,5 +1,5 @@
 import numpy as np
-import Regression
+from Object_Oriented_Approach import Regression
 
 
 class Linear_Regression(Regression):
