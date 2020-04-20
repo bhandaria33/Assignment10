@@ -13,6 +13,6 @@ Assignment Guidelines:
 
 
 Note:
-code file - Lab8
-csv file - WA_Fn-UseC_-HR-Employee-Attrition.csv
-conclusion file - conclusion
+code file - Lab8;
+csv file - WA_Fn-UseC_-HR-Employee-Attrition.csv;
+conclusion file - conclusion;
